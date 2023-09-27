@@ -1,0 +1,15 @@
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.csproj.AssemblyReference.cache
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.AssemblyInfoInputs.cache
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.AssemblyInfo.cs
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.csproj.CoreCompileInputs.cache
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\bin\Debug\net7.0\Pilha String.exe
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\bin\Debug\net7.0\Pilha String.deps.json
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\bin\Debug\net7.0\Pilha String.runtimeconfig.json
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\bin\Debug\net7.0\Pilha String.dll
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\bin\Debug\net7.0\Pilha String.pdb
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.dll
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\refint\Pilha String.dll
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.pdb
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\Pilha String.genruntimeconfig.cache
+C:\Users\237413\Downloads\EstruturaDadosI\Atividades\Pilha String\obj\Debug\net7.0\ref\Pilha String.dll
