@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arthur/Documents/EstruturasDeDados-Atividades/Unidade II/TabelaHashCPFeNome/TabelaHashCPFeNome.csproj",
+      "projectUniqueName": "/home/arthur/Downloads/EstruturasDeDados-Atividades/Unidade II/20230920 - TabelaHashCPFeNome/TabelaHashCPFeNome.csproj",
       "projectName": "TabelaHashCPFeNome",
-      "projectPath": "/home/arthur/Documents/EstruturasDeDados-Atividades/Unidade II/TabelaHashCPFeNome/TabelaHashCPFeNome.csproj",
+      "projectPath": "/home/arthur/Downloads/EstruturasDeDados-Atividades/Unidade II/20230920 - TabelaHashCPFeNome/TabelaHashCPFeNome.csproj",
       "packagesPath": "/home/arthur/.nuget/packages/",
-      "outputPath": "/home/arthur/Documents/EstruturasDeDados-Atividades/Unidade II/TabelaHashCPFeNome/obj/",
+      "outputPath": "/home/arthur/Downloads/EstruturasDeDados-Atividades/Unidade II/20230920 - TabelaHashCPFeNome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arthur/.nuget/NuGet/NuGet.Config"
