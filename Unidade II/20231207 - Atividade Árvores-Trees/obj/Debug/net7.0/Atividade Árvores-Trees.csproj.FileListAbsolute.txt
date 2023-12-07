@@ -1,0 +1,15 @@
+/home/arthur/Downloads/Atividade Árvores-Trees/bin/Debug/net7.0/Atividade Árvores-Trees
+/home/arthur/Downloads/Atividade Árvores-Trees/bin/Debug/net7.0/Atividade Árvores-Trees.deps.json
+/home/arthur/Downloads/Atividade Árvores-Trees/bin/Debug/net7.0/Atividade Árvores-Trees.runtimeconfig.json
+/home/arthur/Downloads/Atividade Árvores-Trees/bin/Debug/net7.0/Atividade Árvores-Trees.dll
+/home/arthur/Downloads/Atividade Árvores-Trees/bin/Debug/net7.0/Atividade Árvores-Trees.pdb
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.csproj.AssemblyReference.cache
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.AssemblyInfoInputs.cache
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.AssemblyInfo.cs
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.csproj.CoreCompileInputs.cache
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.dll
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/refint/Atividade Árvores-Trees.dll
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.pdb
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/Atividade Árvores-Trees.genruntimeconfig.cache
+/home/arthur/Downloads/Atividade Árvores-Trees/obj/Debug/net7.0/ref/Atividade Árvores-Trees.dll
